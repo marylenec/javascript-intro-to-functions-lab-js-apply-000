@@ -17,3 +17,8 @@ whisper("hello");
 
 //describe('logShout(string)'
 
+function logShout(string) {
+  console.log(string);
+}
+
+logShout("hello");
