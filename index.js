@@ -2,11 +2,7 @@
 
 function shout (string) {
   // do something
-  return string
+  return string.toUpperCase()
 }
 
-var str = "Hello";
-
-var str = str.toUpperCase();
-
-shout(str);
+shout("hello!");
