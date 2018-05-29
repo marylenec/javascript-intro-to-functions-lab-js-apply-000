@@ -32,3 +32,11 @@ function logWhisper(string) {
 }
 
 logWhisper("hello");
+
+//describe('sayHiToGrandma(string)'
+
+function sayHiToGrandma(string) {
+  
+}
+
+sayHiToGrandma('hello');
