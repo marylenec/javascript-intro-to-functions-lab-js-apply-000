@@ -15,4 +15,5 @@ function whisper(string) {
 
 whisper("hello");
 
-//
+//describe('logShout(string)'
+
