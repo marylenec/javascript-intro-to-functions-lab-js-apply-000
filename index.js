@@ -45,8 +45,8 @@ function sayHiToGrandma(string) {
     return "YES INDEED!";
   } else if (string === lowercase) {
     return "I can't hear you!";
-  } else {
-    console.log();
+  } else if (string === mixedcase) {
+    return "I love you, too.";
   }
 }
 
