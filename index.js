@@ -6,3 +6,5 @@ function shout (string) {
 }
 
 shout("hello!");
+
+//
