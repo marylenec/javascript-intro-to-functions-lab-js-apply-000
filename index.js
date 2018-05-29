@@ -5,7 +5,7 @@ function shout (string) {
   return string
 }
 
-var str = "Hello!";
+var str = "Hello";
 
 var str = str.toUpperCase();
 
