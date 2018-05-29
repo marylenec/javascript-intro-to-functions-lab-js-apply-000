@@ -7,4 +7,10 @@ function shout (string) {
 
 shout("hello!");
 
-//
+//describe('whisper(string)'
+
+function whisper(string) {
+  return string.toLowerCase()
+}
+
+whisper("")
