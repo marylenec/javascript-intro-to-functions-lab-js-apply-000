@@ -52,4 +52,4 @@ function sayHiToGrandma(string) {
   }
 }
 
-sayHiToGrandma('hello');
+sayHiToGrandma('hello!');
