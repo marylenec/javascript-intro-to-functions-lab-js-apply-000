@@ -42,7 +42,7 @@ function sayHiToGrandma(string) {
   lowercase.toLowerCase() === lowercase;
   
   if (string === uppercase) {
-    console.log();
+    return "YES INDEED!";
   } else if (string === lowercase) {
     return "I can't hear you!";
   } else {
