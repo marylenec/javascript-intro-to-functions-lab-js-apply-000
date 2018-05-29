@@ -36,7 +36,10 @@ logWhisper("hello");
 //describe('sayHiToGrandma(string)'
 
 function sayHiToGrandma(string) {
-  
+  if (string === "hello") {
+    
+    
+  }
 }
 
 sayHiToGrandma('hello');
